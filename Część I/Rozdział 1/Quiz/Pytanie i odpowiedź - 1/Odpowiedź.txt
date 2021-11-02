@@ -1,0 +1,6 @@
+1. Jakość oprogramowania
+2. Wydajność programistów
+3. Przenośność programów
+4. Obsługa bibliotek
+5. Integracja komponentów
+6. Przyjemność

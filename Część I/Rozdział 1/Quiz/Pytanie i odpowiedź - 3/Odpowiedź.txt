@@ -1,0 +1,1 @@
+Ponieważ jego wydajność nie jest tak dobra, jak w przypadku języków w pełni kompilowanych, jak na przykład C++.

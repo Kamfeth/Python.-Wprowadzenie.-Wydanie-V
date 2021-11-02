@@ -1,0 +1,1 @@
+Polecenie to wyświetla zbiór założeń projektowych, które przedstawiają filozofię Pythona.
