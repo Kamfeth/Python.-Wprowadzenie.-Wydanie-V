@@ -1,0 +1,1 @@
+CPython jest standardową implementacją języka Python, z kolei Jython oraz IronPython są jego alternatywnymi kompilatorami.

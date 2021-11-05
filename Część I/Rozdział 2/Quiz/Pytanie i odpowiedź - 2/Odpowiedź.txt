@@ -1,0 +1,1 @@
+Jest to zbiór instrukcji, które określają sposób, w jaki program ma funkcjonować.

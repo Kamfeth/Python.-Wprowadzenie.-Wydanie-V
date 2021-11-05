@@ -1,0 +1,1 @@
+Jest to niskopoziomowa, niezależna od platformy reprezentacja kodu źródłowego.

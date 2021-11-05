@@ -1,0 +1,1 @@
+Jest to Maszyna Wirtualna Pythona, która wykonuje instrukcje zapisane w kodzie bajtowym.

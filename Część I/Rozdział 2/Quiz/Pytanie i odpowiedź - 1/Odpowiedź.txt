@@ -1,0 +1,1 @@
+Jest to program, który wykonuje instrukcje zapisane w Pythonie.
