@@ -1,0 +1,2 @@
+1. Kod źródłowy obsługujący wielowątkowość oraz graficzne interfejsy użytkownika jest w stanie zawiesić działanie IDLE
+2. W przypadku IDLE zmienne skryptu są automatycznie importowane do przestrzeni nazw sesji interaktywnej, jednakże cecha ta nie występuje poza środowiskiem IDLE

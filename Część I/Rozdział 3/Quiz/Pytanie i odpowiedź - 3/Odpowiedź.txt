@@ -1,0 +1,8 @@
+1. Za pomocą wiersza poleceń powłoki systemu
+2. Za pomocą szybkiego, dwukrotnego kliknięcia lewym przyciskiem myszy na plik skryptu
+3. Poprzez zaimportowanie modułu
+4. Używając funkcji exec
+5. Otwierając plik skryptu z poziomu IDLE
+6. Przy użyciu edytora tekstu, który obsługuje wykonywanie kodu napisanego w Pythonie
+7. Za pomocą zamrożonych plików binarnych
+8. Poprzez osadzenie kodu napisanego w Pythonie w innym systemie

@@ -1,0 +1,5 @@
+PYTANIE #1: Co się stanie?
+PYTANIE #2: (Wskazówka: czy w oryginalnym katalogu jest jeszcze plik kodu bajtowego module1.pyc lub podobny w podkatalogu __pycache__?)
+---------------------------------------------------------------------------------------------------------------------------------------
+ODPOWIEDŹ #1: Pojawi się błąd o nazwie ModuleNotFoundError.
+ODPOWIEDŹ #2: Tak.

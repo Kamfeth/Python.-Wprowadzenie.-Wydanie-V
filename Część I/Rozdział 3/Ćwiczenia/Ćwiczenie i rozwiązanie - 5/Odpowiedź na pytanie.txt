@@ -1,0 +1,3 @@
+PYTANIE #1: Co się stanie?
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ODPOWIEDŹ #1: Przy wyrażeniu 2 ** 500 zostanie wypisany wynik działania 2^500, po wpisaniu 1 / 0 pojawi się błąd ZeroDivisionError, natomiast przy odwołaniu się do niezdefiniowanej nazwy zmiennej, pojawi się błąd NameError.

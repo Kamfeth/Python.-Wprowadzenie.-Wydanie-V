@@ -1,0 +1,3 @@
+PYTANIE #1: Które techniki wydają się najłatwiejsze?
+----------------------------------------------------------------------------------------------
+ODPOWIEDŹ #1: Uruchamianie skryptu za pomocą wiersza poleceń powłoki systemu oraz poprzez IDE.

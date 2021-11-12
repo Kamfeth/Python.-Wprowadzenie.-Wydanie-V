@@ -1,0 +1,5 @@
+PYTANIE #1: Co się dzieje?
+PYTANIE #2: Dlaczego Twoja wersja Pythona reaguje w taki sposób na powyższy kod?
+---------------------------------------------------------------------------------------------------------------------------------------------------
+ODPOWIEDŹ #1: Po dodaniu listy do samej siebie utworzona została cykliczna struktura danych.
+ODPOWIEDŹ #2: Ponieważ wersje Pythona od numeru 1.5.1 lub wyżej wykrywają cykle w obiektach, w związku z czym wyświetlają je w taki właśnie sposób.

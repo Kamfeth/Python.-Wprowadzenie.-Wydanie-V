@@ -1,0 +1,3 @@
+PYTANIE #1: Co musi zawierać pierwszy wiersz?
+----------------------------------------------------------------------------
+ODPOWIEDŹ #1: Ścieżkę do interpretera Pythona zainstalowanego na komputerze.

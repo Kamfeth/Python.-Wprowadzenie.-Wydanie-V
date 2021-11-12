@@ -1,0 +1,1 @@
+Ponieważ aby móc wielokrotnie uruchamiać plik modułu, bez zatrzymywania interaktywnej sesji Pythona, należy po pierwszym jego zaimportowaniu go przeładować, w celu załadowania najbardziej aktualnej jego wersji.

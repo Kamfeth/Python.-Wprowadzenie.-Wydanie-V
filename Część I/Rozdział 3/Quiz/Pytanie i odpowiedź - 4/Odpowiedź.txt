@@ -1,0 +1,2 @@
+1. Skrypt taki wykonuje się tak szybko, że bardzo ciężko jest móc dostrzec jego wynik, ponieważ okno programu natychmiast się zamyka
+2. Po wystąpieniu błędu, okno programu natychmiast się zamyka, co uniemożliwia zapoznanie się z przyczyną błędu

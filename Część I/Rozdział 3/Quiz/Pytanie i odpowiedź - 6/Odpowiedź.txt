@@ -1,0 +1,1 @@
+Należy najpierw otworzyć plik skryptu z poziomu File, a następnie wybrać odpowiedni plik za pomocą opcji Open. Następnie z poziomu nowego okna, należy wybrać opcję Run, a następnie Run Module.
