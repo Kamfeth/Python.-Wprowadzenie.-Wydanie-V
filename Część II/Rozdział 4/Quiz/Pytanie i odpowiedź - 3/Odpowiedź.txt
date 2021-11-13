@@ -1,0 +1,1 @@
+Oznacza to, że po utworzeniu obiektu, nie można go już zmodyfikować, takimi typami są liczby, łańcuchy znaków oraz krotki.

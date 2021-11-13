@@ -1,0 +1,1 @@
+Polimorfizm oznacza, że znaczenie operacji uzależnione jest od obiektów, na których się ona odbywa, jest to istotne, ponieważ nieograniczanie kodu do określonych typów sprawia, że kod ten można automatycznie zastosować do wielu typów.

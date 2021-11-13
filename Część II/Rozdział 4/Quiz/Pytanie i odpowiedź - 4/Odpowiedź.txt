@@ -1,0 +1,1 @@
+Jest to uporządkowana pod względem pozycji kolekcja obiektów, do tej kategorii należą typy danych jak łańcuchy znaków, listy oraz krotki.

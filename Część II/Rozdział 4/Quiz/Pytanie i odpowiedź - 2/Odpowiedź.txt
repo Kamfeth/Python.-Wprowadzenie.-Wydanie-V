@@ -1,0 +1,1 @@
+Ponieważ są one częścią składni Pythona, są dostępne w każdym skrypcie.

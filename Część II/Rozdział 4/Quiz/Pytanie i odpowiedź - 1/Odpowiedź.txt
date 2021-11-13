@@ -1,0 +1,4 @@
+1. Liczby
+2. Łańcuchy znaków
+3. Listy
+4. Słowniki

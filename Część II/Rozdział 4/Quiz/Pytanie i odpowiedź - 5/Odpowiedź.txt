@@ -1,0 +1,1 @@
+Jest to inaczej obiekt, który dokonuje mapowania kluczy na powiązane z nimi wartości, słownik należy do takiego typu danych.
