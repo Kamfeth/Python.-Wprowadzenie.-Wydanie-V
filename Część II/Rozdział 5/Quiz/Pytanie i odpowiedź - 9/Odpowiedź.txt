@@ -1,0 +1,1 @@
+Łańcuch dwójkowy, ósemkowy lub szesnastkowy można przekonwertować na liczbę całkowitą za pomocą wbudowanej funkcji int.

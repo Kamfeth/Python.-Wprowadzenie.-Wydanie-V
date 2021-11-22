@@ -1,0 +1,1 @@
+Liczbę całkowitą można przekonwertować na liczbę zmiennoprzecinkową za pomocą wbudowanej funkcji float.

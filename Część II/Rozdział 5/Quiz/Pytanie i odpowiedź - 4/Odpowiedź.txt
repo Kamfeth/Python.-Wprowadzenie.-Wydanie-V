@@ -1,0 +1,1 @@
+Do obliczenia pierwiastka kwadratowego danej liczby można wykorzystać funkcję sqrt z modułu math lub zastosować wyrażenie ** z podanym drugim argumentem równym wartości 0.5, natomiast do policzenia kwadratu liczby można użyć wbudowanej funkcji pow lub wyrażenia **.

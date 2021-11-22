@@ -1,0 +1,1 @@
+Liczbę całkowitą można wyświetlić w notacji dwójkowej, ósemkowej oraz szesnastkowej za pomocą wbudowanych funkcji, kolejno bin, oct oraz hex.

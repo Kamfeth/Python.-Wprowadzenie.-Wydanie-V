@@ -1,0 +1,1 @@
+Liczbę zmiennoprzecinkową można odciąć za pomocą wbudowanej funkcji int, natomiast zaokrąglić poprzez wbudowaną funkcję round.
