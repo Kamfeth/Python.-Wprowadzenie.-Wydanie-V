@@ -1,0 +1,1 @@
+Nie, wartość zmiennej A w takim przypadku nie ulegnie zmianie.

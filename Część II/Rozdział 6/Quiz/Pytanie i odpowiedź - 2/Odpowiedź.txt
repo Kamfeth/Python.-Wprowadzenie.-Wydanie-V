@@ -1,0 +1,1 @@
+Tak, instrukcje te zmieniają wartość zmiennej A.
