@@ -1,0 +1,1 @@
+Łańcuchy znaków w Pythonie są niemutowalne, jednak można utworzyć nowy łańcuch znaków, na przykład poprzez zastosowanie wyrażenia z wycinkiem.

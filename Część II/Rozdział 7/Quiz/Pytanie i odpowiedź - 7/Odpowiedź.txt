@@ -1,0 +1,1 @@
+Można użyć modułu string do uzyskania dostępu do zdefiniowanych w nim stałych.

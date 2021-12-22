@@ -1,0 +1,1 @@
+Konwersja znaku do postaci jego kodu ASCII jest możliwa poprzez wbudowaną funkcję ord, natomiast aby przekonwertować kod ASCII na znak, należy użyć wbudowanej funkcji chr. 
