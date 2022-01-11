@@ -1,0 +1,4 @@
+1. Poprzez użycie metody update
+2. Poprzez użycie metody pop
+3. Poprzez użycie metody setdefault
+4. Poprzez użycie instrukcji del

@@ -1,0 +1,2 @@
+1. listOfZeros = [0, 0, 0, 0, 0]
+2. listOfZeros = [0] * 5

@@ -1,0 +1,2 @@
+1. dictionaryOfZeros = {'a' : 0, 'b' : 0}
+2. dictionaryOfZeros = dict.fromkeys(['a', 'b'], 0)

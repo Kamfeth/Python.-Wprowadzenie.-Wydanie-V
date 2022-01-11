@@ -1,0 +1,4 @@
+1. Poprzez użycie metody append
+2. Poprzez użycie metody insert
+3. Poprzez użycie metody pop
+4. Poprzez użycie metody sort

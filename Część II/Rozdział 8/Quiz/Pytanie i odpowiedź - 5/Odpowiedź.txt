@@ -1,0 +1,1 @@
+Ponieważ proces przeszukiwania słownika jest zazwyczaj szybszy od przeszukiwania listy.
